@@ -1,0 +1,43 @@
+Code	Name	Local Authorities	Population (mid 2022 estimate)
+E23000013	Cleveland	Hartlepool, Redcar and Cleveland, Middlesbrough, Stockton-on-Tees	579,300
+E23000008	Durham	Darlington, County Durham	637,600
+E23000007	Northumbria	Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside, Sunderland, Northumberland	1,466,200
+E23000006	Cheshire	Halton, Warrington, Cheshire East, Cheshire West and Chester	1,108,800
+E23000002	Cumbria	Cumbria	503,000
+E23000005	Greater Manchester	Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford, Wigan	2,911,700
+E23000003	Lancashire	Blackburn with Darwen, Blackpool, Lancashire	1,550,500
+E23000004	Merseyside	Knowsley, Liverpool, Sefton, St. Helens, Wirral	1,442,100
+E23000012	Humberside	East Riding of Yorkshire, Kingston upon Hull, City of, North East Lincolnshire, North Lincolnshire	943,000
+E23000009	North Yorkshire	York, North Yorkshire	828,100
+E23000011	South Yorkshire	Barnsley, Doncaster, Rotherham, Sheffield	1,392,100
+E23000010	West Yorkshire	Bradford, Calderdale, Kirklees, Leeds, Wakefield	2,378,100
+E23000018	Derbyshire	Derbyshire, Derby	1,067,000
+E23000021	Leicestershire	Leicestershire, Leicester, Rutland	1,136,700
+E23000020	Lincolnshire	Lincolnshire	775,500
+E23000022	Northamptonshire	North Northamptonshire, West Northamptonshire	792,400
+E23000019	Nottinghamshire	Nottinghamshire, Nottingham	1,163,300
+E23000015	Staffordshire	Staffordshire, Stoke-on-Trent	1,146,200
+E23000017	Warwickshire	Warwickshire	607,600
+E23000016	West Mercia	Herefordshire, County of, Worcestershire, Telford and Wrekin, Shropshire	1,314,000
+E23000014	West Midlands (Pfa)	Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall, Wolverhampton	2,953,800
+E23000026	Bedfordshire	Bedford, Luton, Central Bedfordshire	715,900
+E23000023	Cambridgeshire	Cambridgeshire, Peterborough	906,800
+E23000028	Essex	Essex, Southend-on-Sea, Thurrock	1,877,300
+E23000027	Hertfordshire	Hertfordshire	1,204,600
+E23000024	Norfolk	Norfolk	925,300
+E23000025	Suffolk	Suffolk	768,600
+E23000001	Metropolitan Police	33 London Boroughs	8,855,300
+E23000030	Hampshire	Hampshire, Isle of Wight, Portsmouth, Southampton	2,018,700
+E23000032	Kent	Kent, Medway	1,875,900
+E23000031	Surrey	Surrey	1,214,500
+E23000033	Sussex	West Sussex, East Sussex	1,721,000
+E23000029	Thames Valley	Buckinghamshire, Bracknell Forest, Oxfordshire, Milton Keynes, Reading, Slough	2,549,700
+E23000036	Avon and Somerset	Bath and North East Somerset, Bristol, City of, North Somerset, South Gloucestershire, Somerset	1,765,400
+E23000035	Devon and Cornwall	Devon, Isles of Scilly, Plymouth, Torbay, Cornwall	1,810,400
+E23000039	Dorset	Bournemouth, Christchurch and Poole, Dorset	785,200
+E23000037	Gloucestershire	Gloucestershire	652,400
+E23000038	Wiltshire	Swindon, Wiltshire	751,500
+W15000004	Dyfed-Powys	Powys, Ceredigion, Pembrokeshire, Carmarthenshire	519,000
+W15000002	Gwent	Caerphilly, Blaenau Gwent, Torfaen, Monmouthshire, Newport	591,400
+W15000001	North Wales	Isle of Anglesey, Gwynedd, Conwy, Denbighshire, Flintshire, Wrexham	688,200
+W15000003	South Wales	Swansea, Neath Port Talbot, Bridgend, Vale of Glamorgan, Cardiff, Rhondda Cynon Taf, Merthyr Tydfil	1,333,100
