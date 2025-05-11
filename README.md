@@ -30,7 +30,7 @@ The data are available on:
         └── Police_Force_Areas_December_2023_EW_BSC_-6977498269682743281/
               └── PFA_DEC_2023_EW_BSC.shp <-- shapefile for UK's police force areas
 ─ notebooks/
-   └── Immigration_and_Crime_JupyterNotebook <-- report generated from the work
+   └── Immigration_and_Crime_JupyterNotebook.ipynb <-- report generated from the work
 ─ src/
    └── immigration_and_crime_src/
          └── utils.py                    <-- outsourced utility functions used in the notebooks
@@ -42,7 +42,7 @@ Install these requirements using:
 `pip install -r requirements.txt`
 
 # Deliverables
-The report had been compressed into a single jupyter notebook (notebooks/immigration_and_crime.ipynb).
+The report had been compressed into a single jupyter notebook (notebooks/Immigration_and_Crime_JupyterNotebook.ipynb).
 
 # Contributors
 @burysek
